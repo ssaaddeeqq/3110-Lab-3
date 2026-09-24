@@ -30,5 +30,6 @@ public class BuddyInfo {
                 new BuddyInfo("Homer", "123 Main Street", "613-555-0123");
 
         System.out.println("Hello " + buddy.getName());
+        System.out.println("glorpy gloop");
     }
 }
