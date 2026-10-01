@@ -23,6 +23,8 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(buddy);
         System.out.println("glorpy gloop");
+        System.out.println("Hello");
+        
 
 
 
