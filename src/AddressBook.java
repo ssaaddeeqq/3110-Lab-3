@@ -15,6 +15,8 @@ public class AddressBook {
         buddies.remove(buddy);
     }
 
+    public int BuddieSize() { return buddies.size(); }
+
     public static void main(String[] args) {
         System.out.println("Address book");
 
